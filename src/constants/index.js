@@ -167,7 +167,7 @@ const projects = [
       "Detailed collection and easy evaluation of Abe Pasion. Highlights key components regarding experience in labor along with technical skills. ",
     tags: [
       {
-        name: "react",
+        name: "React",
         color: "blue-text-gradient",
       },
       {
@@ -175,7 +175,7 @@ const projects = [
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "CSS Tailwind",
         color: "pink-text-gradient",
       },
     ],
@@ -188,15 +188,15 @@ const projects = [
       "Web application that enables users to search for recipes, based on certain criteria. Users can log macros, as well as, create and favorite recipes into their own book.",
     tags: [
       {
-        name: "react",
+        name: "PHP",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "JavaScript",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "Ruby",
         color: "pink-text-gradient",
       },
     ],
@@ -209,15 +209,15 @@ const projects = [
       "A comprehensive expense tracking website that allows users to visualize and categorize expenses, create goals, and display investment opportunities.",
     tags: [
       {
-        name: "nextjs",
+        name: "Python",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "Node.js",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "MySQL",
         color: "pink-text-gradient",
       },
     ],
