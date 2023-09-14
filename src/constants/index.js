@@ -183,7 +183,7 @@ const projects = [
     source_code_link: "https://github.com/Abe-Pasion/Abe-Pasion-Github.io",
   },
   {
-    name: "ChefME // inprogress",
+    name: "ChefME // no longer in inprogress",
     description:
       "Web application that enables users to search for recipes, based on certain criteria. Users can log macros, as well as, create and favorite recipes into their own book.",
     tags: [
